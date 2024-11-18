@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "name": "Muhammad Ramadhan",
+        "salary": 200000.0,
+        "position": "CEO",
+        "address": "Lodaya",
+        "status": "accepted"
+    },
+    {
+        "id": "0734cee1-09a6-4528-8e7a-5c774195b545",
+        "name": "Daan Gaming 123",
+        "salary": 123111212.0,
+        "position": "FullStack Developer ",
+        "address": "London ",
+        "status": "accepted",
+        "added_by": "daan"
+    }
+]

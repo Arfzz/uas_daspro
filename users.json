@@ -1,0 +1,85 @@
+[
+    {
+        "id": "ca5d1ef7-f3b5-4159-a35d-d72ae7fe8090",
+        "username": "superadmin",
+        "role": "superadmin",
+        "password": "password123"
+    },
+    {
+        "id": "0a6eafcf-b798-476a-8851-4f47ee5b1ed9",
+        "username": "admin",
+        "role": "admin",
+        "password": "admin123"
+    },
+    {
+        "username": "Daan",
+        "role": "user",
+        "password": "J0403241160"
+    },
+    {
+        "username": "arief",
+        "role": "user",
+        "password": "12"
+    },
+    {
+        "id": "c7040091-e8d8-470a-b81e-76dd52656da6",
+        "username": "hr_office",
+        "role": "hr",
+        "password": "hr123"
+    },
+    {
+        "username": "arief",
+        "role": "user",
+        "password": "12"
+    },
+    {
+        "username": "daan",
+        "role": "user",
+        "password": "J04032411160"
+    },
+    {
+        "username": "Daan",
+        "role": "user",
+        "password": "J0403241160"
+    },
+    {
+        "username": "Dana",
+        "role": "user",
+        "password": "123"
+    },
+    {
+        "username": "daan",
+        "role": "user",
+        "password": "2323"
+    },
+    {
+        "username": "daan",
+        "role": "user",
+        "password": "J0403241160"
+    },
+    {
+        "username": "daan",
+        "role": "user",
+        "password": "J04032411160"
+    },
+    {
+        "username": "daan",
+        "role": "user",
+        "password": "J0403241160"
+    },
+    {
+        "username": "daan",
+        "role": "user",
+        "password": "J0403241160"
+    },
+    {
+        "username": "arief",
+        "role": "user",
+        "password": "12"
+    },
+    {
+        "username": "daan",
+        "role": "user",
+        "password": "J0403241160"
+    }
+]
